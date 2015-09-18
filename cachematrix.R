@@ -1,5 +1,5 @@
 ## Programming Assignment 2 - Caching the Inverse of a Matrix
-## Programmer: And,rea Chambers
+## Programmer: Andrea Chambers
 ## Date: September 18, 2015
 
 # Caching the Inverse of a Matrix:
